@@ -1,0 +1,75 @@
+26
+Đại học Công nghiệp Việt-Hung
+0.0 0.0
+27
+Trường Đại học Công nghiệp Việt Trì
+0.0 0.0
+28
+Trường Đại học Dầu khí Việt Nam
+0.0 0.0
+29
+Trường Đại học Điện lực
+0.4 0.3
+30
+Trường Đại học Điều dưỡng Nam Định
+0.0 0.0
+31
+Trường Đại học Hà Nội
+0.0 0.0
+32
+Trường Đại học Hàng hải Việt Nam
+0.0 0.0
+33
+Trường Đại học Khoa học và Công nghệ Hà Nội
+0.9 0.9 
+34
+Trường Đại học Kiểm sát Hà Nội
+0.0 0.0
+35
+Trường Đại học Kiến trúc Thành phố Hồ Chí Minh
+0.0 0.0
+36
+Trường Đại học Kinh tế - Kỹ thuật Công nghiệp
+0.1 0.1
+37
+Trường Đại học Kinh tế Quốc dân
+0.9 0.9
+38
+Trường Đại học Kỹ thuật Y - Dược Đà Nẵng
+0.0 0.0
+39
+Trường Đại học Kỹ thuật Y tế Hải Dương
+0.0 0.0
+40
+Trường Đại học Giao thông Vận tải
+0.8 0.8
+41
+Trường Đại học Giao thông vận tải Thành phố Hồ Chí Minh
+0.0 0.0
+42
+Trường Đại học Lao động - Xã hội
+0.1 0.1
+43
+Trường Đại học Lao động - Xã hội, cơ sở Sơn Tây
+0.0 0.0
+44
+Trường Đại học Lao động - Xã hội cơ sở 2, Thành phố Hồ Chí Minh
+0.0 0.0
+45
+Trường Đại học Luật Hà Nội
+0.0 0.0
+46
+Trường Đại học Luật Thành phố Hồ Chí Minh
+0.0 0.0
+47
+Trường Đại học Lâm nghiệp
+0.3 0.3
+48
+Trường Đại học Mở Thành phố Hồ Chí Minh
+0.1 0.1
+49
+Trường Đại học Mỹ thuật Công nghiệp
+0.0 0.0
+50
+Trường Đại học Mỹ thuật Việt Nam
+0.0 0.0
